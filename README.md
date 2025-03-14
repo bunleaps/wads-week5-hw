@@ -13,8 +13,8 @@ A React-based Todo application with user authentication, profile management, and
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/bunleaps/wads-week5-hw
+cd wads-week5-hw
 ```
 
 2. Install dependencies
